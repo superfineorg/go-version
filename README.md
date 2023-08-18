@@ -19,7 +19,7 @@ How import the package
 
 ```go
 import (
-    "github.com/mcuadros/go-version"
+    "github.com/superfineorg/go-version"
 )
 ```
 
