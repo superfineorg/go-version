@@ -9,7 +9,7 @@ Installation
 The recommended way to install go-version
 
 ```
-go get github.com/mcuadros/go-version
+go get github.com/superfineorg/go-version
 ```
 
 Examples
